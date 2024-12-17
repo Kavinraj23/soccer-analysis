@@ -1,0 +1,23 @@
+# Ignore model weights and checkpoints
+*.pt
+*.pkl
+
+# Ignore cached files
+__pycache__/
+*.py[cod]
+
+# Ignore runs
+/runs
+
+# Ignore stubs
+/stubs
+
+# Ignore training artifacts
+/training
+
+# Ignore images and labels
+*.jpg
+*.png
+*.yaml
+labels.jpg
+labels_correlation.png
