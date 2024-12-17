@@ -31,3 +31,9 @@ Computer vision project that utilizes YOLO-based object detection, pixel segment
      - Visualize player tracking data and metrics.  
      - Provide heatmaps, paths, and game analysis results.  
      - Allow users to upload videos and customize analysis settings.  
+
+## **Credits**
+
+This project is inspired by and builds upon the following resources:
+- (https://github.com/abdullahtarek/football_analysis)  
+- YouTube Tutorial: [Football Player Tracking Using YOLO](https://www.youtube.com/watch?v=neBZ6huolkg)  
