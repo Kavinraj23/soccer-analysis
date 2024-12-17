@@ -34,6 +34,6 @@ Computer vision project that utilizes YOLO-based object detection, pixel segment
 
 ## **Credits**
 
-This project is inspired by and builds upon the following resources:
+This project builds upon the following resources:
 - (https://github.com/abdullahtarek/football_analysis)  
 - YouTube Tutorial: [Football Player Tracking Using YOLO](https://www.youtube.com/watch?v=neBZ6huolkg)  
